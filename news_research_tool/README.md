@@ -16,7 +16,7 @@ This application is a user-friendly news research tool designed for effortless i
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/tejkiran7/news_research_tool.git
+  git clone https://github.com/tejkiran7/Project-Langchain.git
 ```
 2.Navigate to the project directory:
 
