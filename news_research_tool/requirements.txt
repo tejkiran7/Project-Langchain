@@ -1,0 +1,5 @@
+langchain==0.3.7
+langchain_groq==0.2.1
+python-dotenv==1.0.1
+streamlit==1.40.0
+sentence-transformers==3.2.1
